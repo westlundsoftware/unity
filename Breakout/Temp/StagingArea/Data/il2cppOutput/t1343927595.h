@@ -1,0 +1,60 @@
+﻿#pragma once
+
+#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+#include <stdint.h>
+
+struct t363151629;
+struct t2004341407;
+struct t1123534687;
+struct t1194970476;
+struct t2976004863;
+struct t3795511950;
+struct t1585840889;
+struct t1530724774;
+struct t3559521993;
+struct t1534979633;
+struct t3637472145;
+struct t4273619426;
+struct t3208847602;
+struct t1239395179;
+struct t1515511641;
+struct t2662741038;
+struct t1114615936;
+struct t1617390730;
+struct t3631216940;
+struct t2217465747;
+
+#include "t707969140.h"
+
+struct  t1343927595  : public t707969140
+{
+};
+struct t1343927595_SFs{
+	t363151629 * f0;
+	t2004341407 * f1;
+	t1123534687 * f2;
+	t1194970476 * f3;
+	t2976004863 * f4;
+	t3795511950 * f5;
+	t1585840889 * f6;
+	t1530724774 * f7;
+	t3559521993 * f8;
+	t1534979633 * f9;
+	t3637472145 * f10;
+	t4273619426 * f11;
+	t3208847602 * f12;
+	t1239395179 * f13;
+	t1515511641 * f14;
+	t2662741038 * f15;
+	t1114615936 * f16;
+	t1617390730 * f17;
+	t3631216940 * f18;
+	t2217465747 * f19;
+};
